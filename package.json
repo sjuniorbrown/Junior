@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "name": "Junior",
+  "version": "1.0.0",
+  "description": "This is the login form",
+  "main": "index.js",
+  "author": "Junior Brown",
+  "license": "MIT"
+}

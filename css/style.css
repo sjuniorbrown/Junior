@@ -1,0 +1,37 @@
+body{
+  background: #E5E7E9;
+  font-family: raleway;
+}
+.container{
+  width: 50%;
+  margin: 0 auto;
+  background: inherit;
+}
+
+.form{
+  margin: auto;
+  position: relative;
+  width: 50%;
+  margin-top: 35%;
+
+}
+
+.form-background{
+  width: 100%;
+  height:100%;
+  background: #F8F9F9;
+  position: relative;
+  display: block;
+}
+.form-background h3{
+padding-top: 20%;
+}
+
+
+/*This is the input group styling */
+input{
+   border-radius: 2%;
+   width: 90%;
+   height:30px;
+   margin-bottom: 10px;
+}
