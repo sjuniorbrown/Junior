@@ -1,27 +1,38 @@
+
 body{
   background: #E5E7E9;
   font-family: raleway;
 }
 .container{
-  width: 50%;
+  /*width: 50%;*/
   margin: 0 auto;
   background: inherit;
 }
+
+/* Navigation Menu */
+.nav{
+  font-size:21px;
+  margin-left: 33%;
+}
+
+
 
 .form{
   margin: auto;
   position: relative;
   width: 50%;
-  margin-top: 35%;
+
 
 }
 
 .form-background{
   width: 100%;
-  height:100%;
+  height:auto;
   background: #F8F9F9;
   position: relative;
   display: block;
+  padding: 30px;
+  margin-top: 35%;
 }
 
 
@@ -33,5 +44,5 @@ input{
    margin-bottom: 10px;
 }
 .input-group-addon{
-  min-width:33px
+  min-width:74px
 }
